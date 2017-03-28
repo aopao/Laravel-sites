@@ -2,25 +2,25 @@
 
 > Hi 这里是Roy整理的Laravel相关索引，希望能帮到大家:smiling_imp:，目前只是一小部分，正在努力整理中...
 
-##Laravel 文档
+## Laravel 文档
 
  - [Laravel 官方文档](http://laravel.com/)       —— 英文
  - [Laravel 中文文档](http://laravel-china.org/) —— laravel-china版
  - [Laravel 中文文档](http://www.golaravel.com/) —— golaravel版
 
-##Laravel 新闻
+## Laravel 新闻
  - [Laravel News](https://laravel-news.com/) —— Laravel官方新闻 
  
-##Laravel 教程
+## Laravel 教程
 
  - [Laracasts](https://laracasts.com) —— Jeff的教程很赞！（基础教程免费），入门推荐这个[laravel-5-fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
  - [使用 Laravel 5.1 开发博客应用系列教程](https://phphub.org/topics/1564) —— 文字版教程，英文版[Laravel Coding](http://laravelcoding.com/blog)
  
-##Laravel 社区 
+## Laravel 社区 
  - [PHPHub](https://phphub.org/) —— PHP & Laravel中文社区，比较有质量，另外推荐PHPHub团队维护的[Laravel 中文文档](http://laravel-china.org/)和[PHP之道](http://laravel-china.github.io/php-the-right-way/)
  - [Laravel问答社区](http://wenda.golaravel.com/) —— 社区相对活跃些~
  
-##Laravel 博客
+## Laravel 博客
  - [Laravel 学院](http://laravelacademy.org/) —— 勤奋的站长，高质量的内容。另外推荐博主翻译的[Laravel 5.1 中文文档](http://laravelacademy.org/laravel-docs-5_1) 以及 [Laravel 完整开源项目大全](http://laravelacademy.org/laravel-project)
  - [overtrue博客](http://overtrue.me/) —— Laravel牛人，开发了好几个优质扩展，为Laravel做出了杰出的贡献~
  - [岁寒](https://lvwenhan.com) —— 主要推荐[最适合中国人的 Laravel 教程系列](https://lvwenhan.com/laravel/432.html)，非常适合新手入门~
@@ -34,7 +34,7 @@
  - [yuansir](http://www.yuansir-web.com/) —— 推荐[让更好用的laravel来构建web应用 (PPT)](http://slides.com/ryanyuan/better-use-of-laravel-to-build-web-applications#/)
  - [Matt Stauffer on Laravel, PHP, Frontend development](https://mattstauffer.co/blog) —— 英文博客
 
-##Laravel 开发实例
+## Laravel 开发实例
  - [NauxLiu/PHPHub](https://github.com/NauxLiu/phphub-server) —— 基于Laravel5.1，并赠送[PHPHub iOS](https://github.com/Aufree/phphub-ios) & [PHPHub Android](https://github.com/CycloneAxe/phphub-android)客户端全家桶   
  - [douyasi/yascmf](https://github.com/douyasi/yascmf) —— 基于Laravel 5.1，小型内容管理框架
  - [yccphp/laravel-5-blog](https://github.com/yccphp/laravel-5-blog) —— Enda 袁超基于Laravel5.1开发的博客系统
@@ -45,7 +45,7 @@
  - [Laravel and AngularJS CMS ](https://github.com/DimitriMikadze/laravel-angular-cms) —— 基于Laravel 5.1和AngularJS的CMS
  - [vieasehub/viease](https://github.com/vieasehub/viease) —— 微易，一款微信公众平台管理系统。基于overtrue微信SDK开发
 
-##Laravel 扩展包
+## Laravel 扩展包
  - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) ——  Laravel 开发调试神器！
  - [romanbican/roles](https://github.com/romanbican/roles) —— Laravel权限扩展包，支持Laravel5.1，本人用的体验不错。
  - [argb/laravel-ueditor](https://github.com/argb/laravel-ueditor) —— Ueditor Laravel版
@@ -61,19 +61,15 @@
  - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) —— Laravel生成二维码工具，亲测好用
  - [zgldh/qiniu-laravel-storage](https://github.com/zgldh/qiniu-laravel-storage) —— 七牛SDK for Laravel
 
-##Laravel 相关
+## Laravel 相关
  
-###Composer
+### Composer
  - [Composer](https://getcomposer.org/) —— Composer官网(需要梯子)
  - [Packagist](https://packagist.org/) —— Packagist官网
  - [Packagist / Composer 中国全量镜像](http://pkg.phpcomposer.com/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
  - [Packagist中国镜像站](http://packagist.cn/) —— 国内镜像（会有不稳定和扩展不全，建议使用官网）
- 
-###Hometead 相关
- - [Win Laravel Homestead](http://www.kyomini.com/content_16.html) —— win平台安装Homestead教程
- - [Mac Laravel Homestead](http://www.kyomini.com/content_11.html) —— Mac平台安装Homestead教程
 
-###其他
+### 其他
  - [Google](https://www.google.com) —— 建议使用英文关键词搜索
  - [Stack Overflow](http://stackoverflow.com/) —— Stack Overflow大部分技术问题都能在上面找到答案
 
